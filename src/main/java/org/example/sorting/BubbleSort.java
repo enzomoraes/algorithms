@@ -1,4 +1,4 @@
-package org.example;
+package org.example.sorting;
 
 public class BubbleSort implements SortAlgorithm {
 

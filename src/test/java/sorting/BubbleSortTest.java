@@ -1,5 +1,7 @@
-import org.example.BubbleSort;
-import org.example.SortAlgorithm;
+package sorting;
+
+import org.example.sorting.BubbleSort;
+import org.example.sorting.SortAlgorithm;
 
 
 public class BubbleSortTest extends OrderArrayBaseTest {
